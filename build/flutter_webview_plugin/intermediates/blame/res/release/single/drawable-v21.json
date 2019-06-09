@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/brightzh/AndroidStudioProjects/news_app_flutter/build/flutter_webview_plugin/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/brightzh/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/4cdfb9d943270c9c0fdca48cde654576/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/brightzh/AndroidStudioProjects/news_app_flutter/build/flutter_webview_plugin/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/brightzh/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/4cdfb9d943270c9c0fdca48cde654576/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Users/brightzh/AndroidStudioProjects/news_app_flutter/build/flutter_webview_plugin/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/brightzh/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/4cdfb9d943270c9c0fdca48cde654576/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/brightzh/AndroidStudioProjects/news_app_flutter/build/flutter_webview_plugin/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/brightzh/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/a880a219f9b7c9aeb4b165a14d819af0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/brightzh/AndroidStudioProjects/news_app_flutter/build/flutter_webview_plugin/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/brightzh/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/4cdfb9d943270c9c0fdca48cde654576/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/brightzh/AndroidStudioProjects/news_app_flutter/build/flutter_webview_plugin/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/brightzh/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/4cdfb9d943270c9c0fdca48cde654576/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

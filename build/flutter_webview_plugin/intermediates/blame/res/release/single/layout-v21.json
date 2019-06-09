@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/brightzh/AndroidStudioProjects/news_app_flutter/build/flutter_webview_plugin/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/brightzh/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/a880a219f9b7c9aeb4b165a14d819af0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/brightzh/AndroidStudioProjects/news_app_flutter/build/flutter_webview_plugin/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/brightzh/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/a880a219f9b7c9aeb4b165a14d819af0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/brightzh/AndroidStudioProjects/news_app_flutter/build/flutter_webview_plugin/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/brightzh/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/a880a219f9b7c9aeb4b165a14d819af0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/brightzh/AndroidStudioProjects/news_app_flutter/build/flutter_webview_plugin/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/brightzh/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/a880a219f9b7c9aeb4b165a14d819af0/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

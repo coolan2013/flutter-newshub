@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/brightzh/AndroidStudioProjects/news_app_flutter/build/flutter_webview_plugin/intermediates/res/merged/release/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/brightzh/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/4cdfb9d943270c9c0fdca48cde654576/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/brightzh/AndroidStudioProjects/news_app_flutter/build/flutter_webview_plugin/intermediates/res/merged/release/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/brightzh/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/4cdfb9d943270c9c0fdca48cde654576/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/brightzh/AndroidStudioProjects/news_app_flutter/build/flutter_webview_plugin/intermediates/res/merged/release/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/brightzh/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/4cdfb9d943270c9c0fdca48cde654576/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    }
+]

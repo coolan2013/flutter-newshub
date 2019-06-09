@@ -1,0 +1,188 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from [:fluttertoast] /Users/brightzh/AndroidStudioProjects/news_app_flutter/build/fluttertoast/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences] /Users/brightzh/AndroidStudioProjects/news_app_flutter/build/shared_preferences/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_webview_plugin] /Users/brightzh/AndroidStudioProjects/news_app_flutter/build/flutter_webview_plugin/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/4cdfb9d943270c9c0fdca48cde654576/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/73acf44f412c9147ac228620232856bc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/5356597c6e114a979ee98be29f3dd5ab/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/5ef6bafc553957069b6e85ba4bed5493/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/fa054d841f1205e193cd57ae53b7a072/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/4d4a42806c5bab5119bf8ba3d64025d9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/299b7eb8696723a2f4ef4aed55f5e48d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/ad0713dfa07b7bc5aaa3bb279c3270a7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/4e7b1e53f78fa53793cba4f99df7c4b8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/3ad326a0c6f281275ef12682046c06ee/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/feabfa9a9793ecb00e3bf5ded23d579f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/210c4bef247883a5d7f0632e0f4d2b86/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/8ef8352b69741dbff1c070a463e7724e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/6c5187071a5aa75309683585ae822948/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.2] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/80f0f9f67b7d6df2d967e3b47dd5448b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/a5fa84dde5c0ed13bc82f3ae2963b1eb/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/a030f348ccfe5d7697485be4af02d78d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/15ece9e4c0fb4a27951d2caa291f2b1f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/cf060ec5d99878b1c1c66f0923b5d9bb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/6ec3d1e2e287398f1008832f23a1efae/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/882956143bba5e60e89161cc62cbdbbd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/ab601419847ed6ea010c2e86c1a74b49/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/a26ebe467f442128956345bb8fde2957/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/e6e543f8be848f07e62329b9f02510eb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/7eb2e9b3d534b735e60b13c53b05e326/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/6794cc8510d3dcfd45a715f2f4a2755d/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml:1:1-33:12
+	package
+		ADDED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml:2:5-43
+		INJECTED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml:9:5-32:19
+MERGED from [:flutter_webview_plugin] /Users/brightzh/AndroidStudioProjects/news_app_flutter/build/flutter_webview_plugin/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:8:5-19:19
+MERGED from [:flutter_webview_plugin] /Users/brightzh/AndroidStudioProjects/news_app_flutter/build/flutter_webview_plugin/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:8:5-19:19
+MERGED from [androidx.core:core:1.0.2] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/80f0f9f67b7d6df2d967e3b47dd5448b/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.2] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/80f0f9f67b7d6df2d967e3b47dd5448b/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/a5fa84dde5c0ed13bc82f3ae2963b1eb/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/a5fa84dde5c0ed13bc82f3ae2963b1eb/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.2] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/80f0f9f67b7d6df2d967e3b47dd5448b/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml:11:9-32
+	android:icon
+		ADDED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml:12:9-44
+	android:name
+		ADDED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml:10:9-57
+activity#com.example.news_app_flutter.MainActivity
+ADDED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml:13:9-31:20
+	android:launchMode
+		ADDED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml:15:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml:18:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml:19:13-55
+	android:configChanges
+		ADDED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml:17:13-144
+	android:theme
+		ADDED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml:16:13-47
+	android:name
+		ADDED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml:14:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml:24:13-26:40
+	android:value
+		ADDED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml:26:17-37
+	android:name
+		ADDED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml:25:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml
+MERGED from [:fluttertoast] /Users/brightzh/AndroidStudioProjects/news_app_flutter/build/fluttertoast/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] /Users/brightzh/AndroidStudioProjects/news_app_flutter/build/fluttertoast/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /Users/brightzh/AndroidStudioProjects/news_app_flutter/build/shared_preferences/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /Users/brightzh/AndroidStudioProjects/news_app_flutter/build/shared_preferences/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_webview_plugin] /Users/brightzh/AndroidStudioProjects/news_app_flutter/build/flutter_webview_plugin/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:6:5-44
+MERGED from [:flutter_webview_plugin] /Users/brightzh/AndroidStudioProjects/news_app_flutter/build/flutter_webview_plugin/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:6:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/4cdfb9d943270c9c0fdca48cde654576/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/4cdfb9d943270c9c0fdca48cde654576/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/73acf44f412c9147ac228620232856bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/73acf44f412c9147ac228620232856bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/5356597c6e114a979ee98be29f3dd5ab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/5356597c6e114a979ee98be29f3dd5ab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/5ef6bafc553957069b6e85ba4bed5493/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/5ef6bafc553957069b6e85ba4bed5493/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/fa054d841f1205e193cd57ae53b7a072/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/fa054d841f1205e193cd57ae53b7a072/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/4d4a42806c5bab5119bf8ba3d64025d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/4d4a42806c5bab5119bf8ba3d64025d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/299b7eb8696723a2f4ef4aed55f5e48d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/299b7eb8696723a2f4ef4aed55f5e48d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/ad0713dfa07b7bc5aaa3bb279c3270a7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/ad0713dfa07b7bc5aaa3bb279c3270a7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/4e7b1e53f78fa53793cba4f99df7c4b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/4e7b1e53f78fa53793cba4f99df7c4b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/3ad326a0c6f281275ef12682046c06ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/3ad326a0c6f281275ef12682046c06ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/feabfa9a9793ecb00e3bf5ded23d579f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/feabfa9a9793ecb00e3bf5ded23d579f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/210c4bef247883a5d7f0632e0f4d2b86/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/210c4bef247883a5d7f0632e0f4d2b86/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/8ef8352b69741dbff1c070a463e7724e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/8ef8352b69741dbff1c070a463e7724e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/6c5187071a5aa75309683585ae822948/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/6c5187071a5aa75309683585ae822948/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/80f0f9f67b7d6df2d967e3b47dd5448b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/80f0f9f67b7d6df2d967e3b47dd5448b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/a5fa84dde5c0ed13bc82f3ae2963b1eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/a5fa84dde5c0ed13bc82f3ae2963b1eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/a030f348ccfe5d7697485be4af02d78d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/a030f348ccfe5d7697485be4af02d78d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/15ece9e4c0fb4a27951d2caa291f2b1f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/15ece9e4c0fb4a27951d2caa291f2b1f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/cf060ec5d99878b1c1c66f0923b5d9bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/cf060ec5d99878b1c1c66f0923b5d9bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/6ec3d1e2e287398f1008832f23a1efae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/6ec3d1e2e287398f1008832f23a1efae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/882956143bba5e60e89161cc62cbdbbd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/882956143bba5e60e89161cc62cbdbbd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/ab601419847ed6ea010c2e86c1a74b49/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/ab601419847ed6ea010c2e86c1a74b49/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/a26ebe467f442128956345bb8fde2957/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/a26ebe467f442128956345bb8fde2957/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/e6e543f8be848f07e62329b9f02510eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/e6e543f8be848f07e62329b9f02510eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/7eb2e9b3d534b735e60b13c53b05e326/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/7eb2e9b3d534b735e60b13c53b05e326/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/6794cc8510d3dcfd45a715f2f4a2755d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/brightzh/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/6794cc8510d3dcfd45a715f2f4a2755d/AndroidManifest.xml:20:5-44
+INJECTED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/brightzh/AndroidStudioProjects/news_app_flutter/android/app/src/main/AndroidManifest.xml
+provider#androidx.core.content.FileProvider
+ADDED from [:flutter_webview_plugin] /Users/brightzh/AndroidStudioProjects/news_app_flutter/build/flutter_webview_plugin/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:9:9-18:20
+	android:grantUriPermissions
+		ADDED from [:flutter_webview_plugin] /Users/brightzh/AndroidStudioProjects/news_app_flutter/build/flutter_webview_plugin/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:13:13-47
+	android:authorities
+		ADDED from [:flutter_webview_plugin] /Users/brightzh/AndroidStudioProjects/news_app_flutter/build/flutter_webview_plugin/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:11:13-64
+	android:exported
+		ADDED from [:flutter_webview_plugin] /Users/brightzh/AndroidStudioProjects/news_app_flutter/build/flutter_webview_plugin/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:12:13-37
+	tools:replace
+		ADDED from [:flutter_webview_plugin] /Users/brightzh/AndroidStudioProjects/news_app_flutter/build/flutter_webview_plugin/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:14:13-48
+	android:name
+		ADDED from [:flutter_webview_plugin] /Users/brightzh/AndroidStudioProjects/news_app_flutter/build/flutter_webview_plugin/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:10:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:flutter_webview_plugin] /Users/brightzh/AndroidStudioProjects/news_app_flutter/build/flutter_webview_plugin/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:15:13-17:53
+	android:resource
+		ADDED from [:flutter_webview_plugin] /Users/brightzh/AndroidStudioProjects/news_app_flutter/build/flutter_webview_plugin/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:17:17-50
+	android:name
+		ADDED from [:flutter_webview_plugin] /Users/brightzh/AndroidStudioProjects/news_app_flutter/build/flutter_webview_plugin/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:16:17-67

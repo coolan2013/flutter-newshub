@@ -1,0 +1,4 @@
+#Wed Jun 05 17:50:56 CST 2019
+base.0=/Users/brightzh/AndroidStudioProjects/news_app_flutter/build/app/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
